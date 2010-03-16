@@ -67,8 +67,8 @@ This library provides some of them to Ohm::Model.
 Test
 ----
 
-  % redis-server spec/redis.conf   # running on port:6380 in default
-  % spec -c spec
+    % redis-server spec/redis.conf   # running on port:6380 in default
+    % spec -c spec
 
 
 Homepage
