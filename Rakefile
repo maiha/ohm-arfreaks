@@ -6,7 +6,7 @@ AUTHOR = "maiha"
 EMAIL = "maiha@wota.jp"
 HOMEPAGE = "http://github.com/maiha/ohm-arfreaks"
 SUMMARY = "Ohm::Model extensions for AR freaks"
-GEM_VERSION = "0.0.1"
+GEM_VERSION = "0.1.0"
 
 spec = Gem::Specification.new do |s|
   s.rubyforge_project = 'asakusarb'
